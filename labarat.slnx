@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="labarat.vcxproj" Id="2f0016ff-1b50-4b09-8a6c-4f068aeb490e" />
+</Solution>
